@@ -1,6 +1,6 @@
 <?php
 {
-	header("location: index.htm");
+	header("location: instagram1.html");
 	exit;
 }
 
